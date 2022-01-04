@@ -1,5 +1,5 @@
-this is NH7020 firmware projects.
-the NH7020 is GridRF NHSDR model, this product detail vist:http://gridrf.com/products/detail/id/12.html
+# NH7020 firmware.
+the <i>NH7020</i> is GridRF's NHSDR model, product details available at the following link: http://gridrf.com/products/detail/id/12.html
 
 * Build Instructions
 ```bash
