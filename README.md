@@ -14,5 +14,5 @@ the <i>NH7020</i> is GridRF's NHSDR model, product details available at the foll
  make
 ```
 ## notes 
-gcc-11 Qt5 requires implicit declaration of <LIMITS> for STD::MIN && STD::MAX <br/>
+gcc-11 requires implicit declaration of <LIMITS> for STD::MIN && STD::MAX <br/>
 gcc-9 reccommended. 
