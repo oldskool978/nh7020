@@ -12,3 +12,7 @@ the <i>NH7020</i> is GridRF's NHSDR model, product details available at the foll
  export PATH=$PATH:/opt/Xilinx/SDK/2019.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/bin
  export VIVADO_SETTINGS=/opt/Xilinx/Vivado/2019.1/settings64.sh
  make
+```
+## notes 
+gcc-11 Qt5 requires exlicit declaration of <LIMITS> for STD::MIN && STD::MAX <br/>
+gcc-9 reccommended. 
